@@ -5,23 +5,56 @@ Giới thiệu đến mọi lập trình viên để cùng nhau phát triển c�
 
 ### Danh mục 
 - [Bộ gõ tiếng Việt](#bgtingvit)
+- [Bản đồ](#b)
 
 # Bộ gõ tiếng Việt
 
 #### PC (Mac/Win/Linux/Unix)
+- [Window - Unikey](http://sourceforge.net/projects/unikey/)
+- [Ubuntu - Unikey](https://code.google.com/p/scim-unikey/)
+- [BoGoEngine](https://github.com/BoGoEngine)
+    + [BoGo Window](https://github.com/BoGoEngine/bogo-win)
+    + [BoGo Mac](https://github.com/BoGoEngine/bogo-osx)
+
 ####　Mobile
 
 #### Xử lý ngôn ngữ tự nhiên
+##### Tập dữ liệu
+- [Dữ liệu câu hỏi về người đã được gán nhãn](https://github.com/lupanh/Vietnamese-Person-Questions-Dataset)
+
+##### Gói thư viện độc lập
+- [Xử lý ngôn ngữ tiếng Việt - Lê Hồng Phương](https://github.com/TamedTornado/vn-nlp-libraries)
+- [Vietnamese Recovery Text](https://github.com/tuandnvn/vietnamese-text-recovery)
+
+##### Gói thư viện hỗ trợ nền tảng chỉ định
+- [ElasticSearch Analysis Vietnamese](https://github.com/duydo/elasticsearch-analysis-vietnamese)
+
+
 
 #### Bản đồ
 
 - [Bản đồ địa lý các tỉnh thành](https://github.com/vuquochuy/Vietnam-Provinces-Map)
 
-#### Gói thư viện độc lập
-
-#### Gói thư viện hỗ trợ nền tảng chỉ định
-- [ElasticSearch Analysis Vietnamese](https://github.com/duydo/elasticsearch-analysis-vietnamese)
-
 #### Gói ngôn ngữ
+##### Thương mại điện tử
+- [Open Cart](https://github.com/fanha99/opencart_vietnamese)
 
-- [Zimbra](https://github.com/EmailConsortium/zimbra-vietnamese)
+##### Diễn đàn
+- [MyBB - Free and Open Source Forum Software]
+
+
+##### Hệ thống cộng tác, quản lý
+- [Zimbra Vietnamese](https://github.com/EmailConsortium/zimbra-vietnamese)
+- [Odoo HR - Human Resource](https://github.com/leotran/Odoo-Vietnam-HR)
+
+##### Framework
+
+##### Mobile
+- [MIUIAndroid MIUI 5 Vietnamese Translations](https://github.com/HoangTuBot/MA-xml-v5-vietnam)
+- [MIUIAndroid MIUI 6 Vietnamese Translations](https://github.com/HoangTuBot/MA-xml-MIUI6-Phone-Vietnam)
+
+#### Dự án
+- [Hệ thống quản lý trường học](https://github.com/tranvictor/truongnha)
+
+#### Khác
+- [AutoIT Help File](https://github.com/AutoIT-VN/HelpFile-Vietnamese)
