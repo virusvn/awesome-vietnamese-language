@@ -1,22 +1,24 @@
-### Giới thiệu
+#### I. Giới thiệu
 
 Dự án này tổng hợp thông tin, các bộ thư viện, phần mềm, ứng ụng mã nguồn mở để phát triển các dự án liên quan đến xử lý ngôn ngữ tiếng Việt và các vấn đề liên quan đến đất nước con người Việt Nam (bản đồ, địa giới hành chính, vùng miền, ...)
+
 Giới thiệu đến mọi lập trình viên để cùng nhau phát triển các ứng dụng liên quan tiếng Việt/Việt Nam nhằm giảm thiểu thời gian nghiên cứu, phát triển cũng như nâng cao chất lượng cộng đồng mã nguồn mở VN.
 
-### Danh mục 
-- [Bộ gõ tiếng Việt](#bgtingvit)
-- [Bản đồ](#b)
+#### II. Danh mục 
+- [Bộ gõ tiếng Việt](#bộ-gõ-tiếng-việt)
+- [Xử lý ngôn ngữ tự nhiên](#xử-lý-ngôn-ngữ-tự-nhiên)
+- [Bản đồ](#bản-đồ)
 
-# Bộ gõ tiếng Việt
+#### Bộ gõ tiếng Việt
 
-#### PC (Mac/Win/Linux/Unix)
+##### PC (Mac/Win/Linux/Unix)
 - [Window - Unikey](http://sourceforge.net/projects/unikey/)
 - [Ubuntu - Unikey](https://code.google.com/p/scim-unikey/)
 - [BoGoEngine](https://github.com/BoGoEngine)
     + [BoGo Window](https://github.com/BoGoEngine/bogo-win)
     + [BoGo Mac](https://github.com/BoGoEngine/bogo-osx)
 
-####　Mobile
+#####　Mobile
 
 #### Xử lý ngôn ngữ tự nhiên
 ##### Tập dữ liệu
@@ -29,6 +31,8 @@ Giới thiệu đến mọi lập trình viên để cùng nhau phát triển c�
 ##### Gói thư viện hỗ trợ nền tảng chỉ định
 - [ElasticSearch Analysis Vietnamese](https://github.com/duydo/elasticsearch-analysis-vietnamese)
 
+##### Tài nguyên tổng hợp
+- [Xử lý văn bản tiếng Việt](http://vlsp.vietlp.org:8080/demo/?page=home)
 
 
 #### Bản đồ
@@ -50,11 +54,11 @@ Giới thiệu đến mọi lập trình viên để cùng nhau phát triển c�
 ##### Framework
 
 ##### Mobile
-- [MIUIAndroid MIUI 5 Vietnamese Translations](https://github.com/HoangTuBot/MA-xml-v5-vietnam)
-- [MIUIAndroid MIUI 6 Vietnamese Translations](https://github.com/HoangTuBot/MA-xml-MIUI6-Phone-Vietnam)
+- MIUIAndroid MIUI Vietnamese Translations [v5](https://github.com/HoangTuBot/MA-xml-v5-vietnam), [v6](https://github.com/HoangTuBot/MA-xml-MIUI6-Phone-Vietnam), [v7](https://github.com/Belmont-Gabriel/MA-XML-MIUI7-Vietnamese)
 
 #### Dự án
 - [Hệ thống quản lý trường học](https://github.com/tranvictor/truongnha)
 
 #### Khác
 - [AutoIT Help File](https://github.com/AutoIT-VN/HelpFile-Vietnamese)
+- [Tính thuế thu nhập cá nhân](https://github.com/LinhNguyenNu/VietnamIncomeTax)
