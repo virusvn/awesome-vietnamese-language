@@ -13,6 +13,7 @@ Giới thiệu đến mọi lập trình viên để cùng nhau phát triển c�
 - [Bản đồ](#bản-đồ)
 - [Ứng dụng văn phòng](#ứng-dụng-văn-phòng)
 - [Khác](#khác)
+
 #### Bộ gõ tiếng Việt
 
 ##### PC (Mac/Win/Linux/Unix)
@@ -25,6 +26,7 @@ Giới thiệu đến mọi lập trình viên để cùng nhau phát triển c�
 #####　Mobile
 
 #### Xử lý ngôn ngữ tự nhiên
+
 ##### Tập dữ liệu
 - [Dữ liệu câu hỏi về người đã được gán nhãn](https://github.com/lupanh/Vietnamese-Person-Questions-Dataset)
 
