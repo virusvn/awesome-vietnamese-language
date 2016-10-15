@@ -11,7 +11,8 @@ Giới thiệu đến mọi lập trình viên để cùng nhau phát triển c�
 - [Bộ gõ tiếng Việt](#bộ-gõ-tiếng-việt)
 - [Xử lý ngôn ngữ tự nhiên](#xử-lý-ngôn-ngữ-tự-nhiên)
 - [Bản đồ](#bản-đồ)
-
+- [Ứng dụng văn phòng](#ứng-dụng-văn-phòng)
+- [Khác](#khác)
 #### Bộ gõ tiếng Việt
 
 ##### PC (Mac/Win/Linux/Unix)
@@ -62,8 +63,18 @@ Giới thiệu đến mọi lập trình viên để cùng nhau phát triển c�
 ##### Hệ thống cộng tác, quản lý
 - [Zimbra Vietnamese](https://github.com/EmailConsortium/zimbra-vietnamese)
 - [Odoo HR - Human Resource](https://github.com/leotran/Odoo-Vietnam-HR)
+- [Dịch vụ công trực tuyến](https://github.com/VietOpenCPS/opencps)
+- [Quản lý học viên](https://github.com/chidokun/QuanLyHocVien)
+- [Quản lý giảng đường](https://github.com/checkraiser/qlgd)
+- [Chăm sóc sức khỏe](https://github.com/huysinh72/HealthCare)
 
-##### Framework
+#### Ứng dụng văn phòng
+- [Phần mềm kế toán](https://github.com/Openroadvietnam/openaccounting)
+
+##### Framework/CMS
+- [Hệ thống hỏi đáp Phanbook](http://phanbook.com/en/): dựa trên nền tảng Phalcon, tốc độ tốt
+- [Hệ thống hỏi đáp 123](https://github.com/sang89vh/123hoidap.vn/tree/master/zend1): có tài liệu thiết kế
+- [NukeViet](https://github.com/nukeviet/nukeviet)
 
 ##### Mobile
 - MIUIAndroid MIUI Vietnamese Translations [v5](https://github.com/HoangTuBot/MA-xml-v5-vietnam), [v6](https://github.com/HoangTuBot/MA-xml-MIUI6-Phone-Vietnam), [v7](https://github.com/Belmont-Gabriel/MA-XML-MIUI7-Vietnamese)
@@ -78,3 +89,5 @@ Giới thiệu đến mọi lập trình viên để cùng nhau phát triển c�
 - [AutoIT Help File](https://github.com/AutoIT-VN/HelpFile-Vietnamese)
 - [Tính thuế thu nhập cá nhân](https://github.com/LinhNguyenNu/VietnamIncomeTax)
 - [Vietnam movie showtimes](https://github.com/trungdq88/movie-showtimes)
+- [Dữ liệu hành chính Việt Nam](https://github.com/VHMIS/VNOpenData)
+- [Kiến thức OpenStack](https://github.com/vietstacker/texbook-openstack-VN)
