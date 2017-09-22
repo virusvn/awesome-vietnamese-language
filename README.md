@@ -35,6 +35,7 @@ Giới thiệu đến mọi lập trình viên để cùng nhau phát triển c�
 - [Vietnamese Recovery Text](https://github.com/tuandnvn/vietnamese-text-recovery)
 - [__Phân tích cảm xúc__](https://github.com/duyetdev/islab-phantichcamxuc)
 - [Loại bỏ dấu, tạo slug](https://github.com/wp-plugins/vietnamese-slug)
+- [Xử lý tiếng Việt bằng phương pháp Neural Network](https://github.com/pth1993/NNVLP)
 
 ##### Gói thư viện hỗ trợ nền tảng chỉ định
 - [ElasticSearch Analysis Vietnamese](https://github.com/duydo/elasticsearch-analysis-vietnamese)
